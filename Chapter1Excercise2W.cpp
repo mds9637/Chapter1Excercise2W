@@ -1,8 +1,9 @@
-// Chapter1Excercise2W.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+// This program calculates the users pay.
+
 
 #include <iostream>
 using namespace std;
+
 int main()
 {
     
